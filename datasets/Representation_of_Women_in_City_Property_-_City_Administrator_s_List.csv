@@ -1,4 +1,4 @@
-Building,First Name,Last Name,Gender,Address,Zip Code,Department,geocoded_point,Neighborhoods,SF Find Neighborhoods,Current Police Districts,Current Supervisor Districts,Analysis Neighborhoods
+building,firstName,lastName,gender,address,zipCode,department,geocodedPoint,neighborhoods,sfFindNeighborhoods,currentPoliceDistricts,currentSupervisorDistricts,analysisNeighborhoods
 SFO Terminal 1,Harvey,Milk,M,780 Mcdonnell Rd,94128,Airport (Sfo),POINT (-122.40102700000001 37.630311),,,,,
 H. WELTON FLYNN DIV.,H. Welton,Flynn,M,1940 Harrison St,94103,Municipal Transportation Agency,POINT (-122.41320200000001 37.766281),53,53,3,2,20
 Pier 47 - Scoma / Fish Prep Bldg,Al & Joe,Scoma,M,1194 Al Scoma Way,94133,Port,POINT (-122.41905700000001 37.809063),,,6,3,23
